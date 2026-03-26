@@ -1,6 +1,9 @@
 NAME- KIRTIKA SINGH
-BRANCH- B.TECH CSE CORE
+
+BRANCH- B.TECH CSE 
+
 YEAR- FIRST YEAR
+
 My goal is to gain expertise in coding, project development, and modern technologies to build efficient and innovative solutions.
 
 <!--
